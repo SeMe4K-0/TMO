@@ -16,7 +16,7 @@
 
 | Лабораторная работа | Название ветки | Прямая ссылка |
 |---------------------|----------------|---------------|
-| Лабораторная работа №1 | `lab1` | [Lab1](https://github.com/SeMe4K-0/TMO/tree/Lab1) |
+| Лабораторная работа №1 | `lab1` | [lab1](https://github.com/SeMe4K-0/TMO/tree/Lab1) |
 | Лабораторная работа №2 | `lab2` | [lab2](https://github.com/SeMe4K-0/TMO/tree/lab2) |
 | Лабораторная работа №3 | `lab3` | [lab3](https://github.com/SeMe4K-0/TMO/tree/lab3) |
 | Лабораторная работа №4 | `lab4` | [lab4](https://github.com/SeMe4K-0/TMO/tree/lab4) |
